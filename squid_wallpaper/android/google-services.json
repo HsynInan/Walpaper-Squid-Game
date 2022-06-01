@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "910974039660",
+    "project_id": "squid-game-wallpapers-b17e7",
+    "storage_bucket": "squid-game-wallpapers-b17e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910974039660:android:3ae900564c57c1231f0a49",
+        "android_client_info": {
+          "package_name": "com.madajans.squidgamewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910974039660-h1fotivllgoo0l4a0c9qbalk9oo4ngvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgTVMPAVLLa7v_YHKwa-AolusRt-ZECUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910974039660-h1fotivllgoo0l4a0c9qbalk9oo4ngvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
